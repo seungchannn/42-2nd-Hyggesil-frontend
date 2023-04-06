@@ -7,7 +7,7 @@
 ## 개발 인원 및 기간
 
 - 개발기간: 23/2/27 ~ 23/3/10 (2주)
-- 팀원: FE - 김한솔, 이동민, 강승찬(Product Manager) BE - 박세희(Product Manager), 이한재
+- 팀원: FE - 김한솔, 이동민, 강승찬(Product Manager) BE - 박세희(Project Manager), 이한재
 
 # 적용 기술 및 주요 기능
 
